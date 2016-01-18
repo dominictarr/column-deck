@@ -18,7 +18,6 @@ module.exports = function columns (opts) {
     el.style.width = px(width - margin)
     el.style.marginLeft = px(margin)
     el.style.marginTop = px(0)
-    el.style.overflowY = 'hidden'
 
     div.appendChild(el)
 
@@ -31,4 +30,5 @@ module.exports = function columns (opts) {
 
   return div
 }
+
 
