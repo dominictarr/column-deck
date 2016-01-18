@@ -1,4 +1,4 @@
-# columns
+# column-deck
 
 module for column based ui like trello or tweetdeck.
 
